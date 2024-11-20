@@ -2,7 +2,9 @@
 
 
 AIM:
+```
 To analyze the problem and come with the entities in it and identify the constraints in creating the database. 
+```
 
 Scenario: Hospital Database
 The Hospital Management System is a tailored operational model for healthcare institutions. Itsprimary function is to efficiently register, store, and retrieve patient and doctor details, allowing meaningful manipulation of the data. User Requirements:
